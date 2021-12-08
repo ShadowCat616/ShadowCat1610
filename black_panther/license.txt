@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Panther
+* source:	https://sketchfab.com/3d-models/black-panther-9c33cfe0a90f4e9f8c318a5b6ad63988
+* author:	Roger Beltrán (https://sketchfab.com/rbethebest)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Panther" (https://sketchfab.com/3d-models/black-panther-9c33cfe0a90f4e9f8c318a5b6ad63988) by Roger Beltrán (https://sketchfab.com/rbethebest) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
